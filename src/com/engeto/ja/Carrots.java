@@ -74,7 +74,5 @@ public class Carrots {
         this.carConsumption = carConsumption;
     }
 
-    public String setIpAddress(int i, int i1, int i2, int i3) {
-        return ipAddress;
-    }
+
 }
